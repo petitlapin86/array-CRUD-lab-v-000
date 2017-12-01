@@ -7,7 +7,7 @@ create_an_array = ["have", "yourself", "a", "merry"]
 end
 
 def add_element_to_end_of_array(array, element)
-array = [] element << "Christmas"
+array = [] 
 end
 
 def add_element_to_start_of_array(array, element)
